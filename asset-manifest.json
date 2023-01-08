@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/zenaimeditation/static/css/main.e507b72e.css",
+    "main.css": "/zenaimeditation/static/css/main.478787f2.css",
     "main.js": "/zenaimeditation/static/js/main.9e0ffc06.js",
     "static/js/787.5c2eded1.chunk.js": "/zenaimeditation/static/js/787.5c2eded1.chunk.js",
     "static/media/bg.gif": "/zenaimeditation/static/media/bg.c2e8a44c7fb350320f0a.gif",
     "static/media/logo.svg": "/zenaimeditation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zenaimeditation/index.html",
-    "main.e507b72e.css.map": "/zenaimeditation/static/css/main.e507b72e.css.map",
+    "main.478787f2.css.map": "/zenaimeditation/static/css/main.478787f2.css.map",
     "main.9e0ffc06.js.map": "/zenaimeditation/static/js/main.9e0ffc06.js.map",
     "787.5c2eded1.chunk.js.map": "/zenaimeditation/static/js/787.5c2eded1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e507b72e.css",
+    "static/css/main.478787f2.css",
     "static/js/main.9e0ffc06.js"
   ]
 }
